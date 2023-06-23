@@ -1,6 +1,6 @@
 # prisma-generated-column
 
-以下の URL で紹介されている WorkAround を試すためのリポジトリ
+以下の URL で紹介されている WorkAround を試すためのリポジトリ  
 https://github.com/nikolasburk/generated-columns
 
 ## Setup
